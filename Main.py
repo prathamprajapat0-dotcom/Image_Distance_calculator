@@ -88,3 +88,8 @@ def calculate():
         canvas.create_image(275, 150, image=OAD) # Add the object image to the canvas
 
 root.mainloop()
+
+# Quadratic Equation Solver
+# Author: Pratham.Deepak.Prajapt
+# Email for paid projects:
+# prathamprajapat0@gmail.com
